@@ -3627,7 +3627,7 @@ https://systems-analysis.ru/es/systems_engineering.html
 https://systems-analysis.ru/es/systems_research.html
 https://systems-analysis.ru/es/young_method.html
 https://systems-analysis.ru/llms.txt
-https://systems-analysis.ru/sitemap
+https://systems-analysis.ru/sitemap/
 https://systems-analysis.ru/sitemap.md
 https://systems-analysis.ru/sitemap/sitemap-ar.md
 https://systems-analysis.ru/sitemap/sitemap-bn.md
